@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @singh04ayush
 - 👀 I’m interested in computer science field
-- 🌱 I’m currently learning front-end
-- ⚡ Enrolled in BTech at Sharda University
+- 🌱 I’m currently learning Backend
+- ⚡ Enrolled in BTech at Sharda University 23 batch
 - 📫 How to reach me: https://www.linkedin.com/in/ayush-singh-87b3682a5/
 
 
