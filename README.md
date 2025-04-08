@@ -1,14 +1,14 @@
-<!--Logo-->
+<!--Logo
 
 ![logo](https://github.com/phoenixdev100/phoenixdev100/blob/main/Github%20Banner.png)
 
-<!--Header Part-->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 </p>
 
-<!--Bio/About Part-->
+-->
 
 
 <!--   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+profile!+I'm+Deepak,+a+Software+Developer!;+Coding+is+my+passion!;Tech+enthusiast+and+problem-solver;System+and+DB+Admin;Welcome+to+my+GitHub+profile!"> -->
@@ -29,7 +29,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Chat Web App**
+ 🔭 I’m currently working on a **Chat Web App**
  
  🌱 I’m currently learning **MERN Stack & Docker**
 
@@ -78,8 +78,8 @@
 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,idea,github,tailwind,git,discord,docker,dotnet,eclipse,express,figma,hibernate" />
-    <img src="https://skillicons.dev/icons?i=js,nextjs,npm,nodejs,python,javascript,mongodb,c,cs,codepen,java,mysql,postman,spring,vercel,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,idea,github,tailwind,git,discord,docker,dotnet,eclipse,express,hibernate" />
+    <img src="https://skillicons.dev/icons?i=js,nextjs,npm,nodejs,python,javascript,mongodb,c,cs,java,mysql,postman,spring,vercel,vite" /><br>
 </div>
 
 <br/>
@@ -101,7 +101,7 @@
 <h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45">⚡ GitHub Stats ⚡</h2>
 
 <div align=center>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=singh04ayush&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=singh04ayush&theme=highcontrast" alt="GitHub Streak" /></a>
   <img height="180em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh04ayush&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
@@ -128,11 +128,11 @@
 
 <!--Projects Showcase-->
 
-<h2 align="center">🛠️ Projects Showcase 🛠️</h2>
+<!-- <h2 align="center">🛠️ Projects Showcase 🛠️</h2>
 <div align="center">
   <a href="https://github.com/singh04ayush/Imagify">
 <!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=singh04ayush&repo=Imagify&theme=react&border_radius=10" alt="Project 1" /> -->
-  </a>
+
   <a href="https://github.com/singh04ayush/crudAPIproject">
 <!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=global-hospitals&theme=react&border_radius=10" alt="Project 2" /> -->
   </a>
