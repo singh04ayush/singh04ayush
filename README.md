@@ -29,7 +29,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Chat Web App**
+ 🔭 I’m currently working on a **E-commerce For Gaming**
  
  🌱 I’m currently learning **MERN Stack & Docker**
 
