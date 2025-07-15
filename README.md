@@ -1,37 +1,20 @@
-<!--Logo
 
-![logo](https://github.com/phoenixdev100/phoenixdev100/blob/main/Github%20Banner.png)
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
-</p>
-
--->
-
-
-<!--   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+profile!+I'm+Deepak,+a+Software+Developer!;+Coding+is+my+passion!;Tech+enthusiast+and+problem-solver;System+and+DB+Admin;Welcome+to+my+GitHub+profile!"> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Ayush,+a+Software+Developer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Admin+%26+Database+Expert;Always+building,+exploring,+and+growing+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Ayush,+a+System+engineer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Admin+%26+Database+Expert;Always+building,+exploring,+and+growing+🚀">
 </h1>
 
 
 
-<!--<h1 align="center">-->
-<!--    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepak!;+I'm+a+software+Developer;+A+system+Administrator;+A+Database+Administrator;+and+a+tech+enthusiast+too.;"/>-->
-<!--</h1>-->
-
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate System Engineer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on a **E-commerce For Gaming**
+ 🔭 I’m currently working on a **FlexiTool**
  
- 🌱 I’m currently learning **MERN Stack & Docker**
+ 🌱 I’m currently learning **Docker & Agents**
 
 💬 You can ask me about **my journey in coding and web development so far.**
 
@@ -52,12 +35,9 @@
   <a href="https://www.linkedin.com/in/ayush-singh-87b3682a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<!--   <a href="https://phoenixdev100.tech" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a> -->
-<!--   <a href="https://twitter.com/phoenixdev100" target="_blank">
+  <a href="https://x.com/singh04ayush" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> -->
+  </a> 
 </div>
 <br/>
 
@@ -84,15 +64,6 @@
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!--Contributions-->
-
-<!--<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/phoenixdev100/phoenixdev100/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>-->
 
 
 <!--Github Stats-->
@@ -125,38 +96,11 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--Projects Showcase-->
 
-<!-- <h2 align="center">🛠️ Projects Showcase 🛠️</h2>
-<div align="center">
-  <a href="https://github.com/singh04ayush/Imagify">
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=singh04ayush&repo=Imagify&theme=react&border_radius=10" alt="Project 1" /> -->
 
-  <a href="https://github.com/singh04ayush/crudAPIproject">
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=global-hospitals&theme=react&border_radius=10" alt="Project 2" /> -->
-  </a>
-  <a href="https://github.com/singh04ayush/UniversityManagementSystem">
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=waste-management-system&theme=react&border_radius=10" alt="Project 3" /> -->
-  </a>
-  <a href="https://github.com/singh04ayush/CHAT-APP">
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=next-js-video-hub&theme=react&border_radius=10" alt="Project 4" /> -->
-  </a>
-</div>
 
-<br/> <br/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--Ending Line-->
 
-<!--<div align="center">
-  <h2>💖 Support My Work 💖</h2>
-  <a href="https://www.buymeacoffee.com/phoenixdev100">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://github.com/sponsors/phoenixdev100">
-    <img src="https://img.shields.io/badge/Sponsor_on_GitHub-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#white" alt="GitHub Sponsor"/>
-  </a>
-</div>
 
 <!--Footer Part-->
 
@@ -164,5 +108,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
 <div align="center">
-  Made with 💖 by Ayush | Last updated: April 2025
+  Made with 💖 by Ayush | Last updated: July 2025
 </div>
