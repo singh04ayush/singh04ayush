@@ -6,17 +6,17 @@
 
 
 
-<h3 align="center">A passionate System Engineer</h3>
+<h3 align="center">A passionate Backend and System Engineer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on a **FlexiTool**
+ 🔭 I’m currently working as a Backend Developer at <a herf="www.skycodehub.com" target="_blank">skycodehub </a> 
  
- 🌱 I’m currently learning **Docker & Agents**
+ 🌱 I’m currently learning **DevSecOps $ Linux**
 
-💬 You can ask me about **my journey in coding and web development so far.**
+💬 You can ask me about **my journey in coding and development so far.**
 
 ⚡ Fun fact **Gicrosoft acquired GitHub in 2018 for a staggering $7.5 billion.**
 
@@ -108,5 +108,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
 <div align="center">
-  Made with 💖 by Ayush | Last updated: July 2025
+  Made with 💖 by Ayush | Last updated: Nov 2025
 </div>
