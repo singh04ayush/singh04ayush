@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Ayush,+a+System+engineer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Admin+%26+Database+Expert;Always+building,+exploring,+and+growing+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Ayush,+a+backend+engineer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Admin+%26+Database+Expert;Always+building,+exploring,+and+growing+🚀">
 </h1>
 
 
