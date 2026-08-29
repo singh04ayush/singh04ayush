@@ -1,20 +1,20 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Ayush,+a+backend+engineer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Admin+%26+Database+Expert;Always+building,+exploring,+and+growing+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Ayush,+a+linux+and+backend+engineer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Adminstrator;Always+building,+exploring,+and+growing+🚀">
 </h1>
 
 
 
-<h3 align="center">A passionate Backend and System Engineer</h3>
+<h3 align="center">A passionate Linux & Backend System Engineer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working as a Backend Developer at <a herf="www.skycodehub.com" target="_blank">skycodehub </a> 
+ 🔭 I’m currently looking for Linux System Administration Role 
  
- 🌱 I’m currently learning **DevSecOps $ Linux**
+ 🌱 I’m currently learning **Automation**
 
 💬 You can ask me about **my journey in coding and development so far.**
 
